@@ -5,11 +5,13 @@
 <table>
 <tr>
 <td>Sorting Algorithm/排序算法</td>
-<td>Average time complexity/平均时间复杂度</td>
+<td>Average Time Complexity/平均时间复杂度</td>
+<td>代码文件</td>
 </tr>
 <tr>
 <td>冒泡排序</td>
 <td>O(n^2)</td>
+<td>a.py  b.cpp</td>
 </tr>
 </table>
 
