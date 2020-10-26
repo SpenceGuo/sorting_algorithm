@@ -12,7 +12,7 @@
 <tr>
 <td>冒泡排序</td>
 <td>O(n^2)</td>
-<td><a href="http:/www.baidu.com">a.py</a></td>
+<td><a href="insertion_sorting/insertion_sorting.py">a.py</a></td>
 <td>a.cpp</td>
 </tr>
 </table>
