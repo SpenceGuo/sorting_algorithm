@@ -16,6 +16,12 @@
 <td><a href="insertion_sort/insertion_sort.py">insertion_sort.py</a></td>
 <td>insertion_sort.cpp</td>
 </tr>
+<tr>
+<td>Select Sort/选择排序</td>
+<td>O(n^2)</td>
+<td><a href="select_sort/select_sort.py">select_sort.py</a></td>
+<td>select_sort.cpp</td>
+</tr>
 </table>
 
 # 算法原理
