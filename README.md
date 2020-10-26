@@ -10,10 +10,12 @@
 <td>C/C++</td>
 </tr>
 <tr>
-<td>冒泡排序</td>
+<td>Insertion Sort/冒泡排序</td>
 <td>O(n^2)</td>
 <td><a href="insertion_sort/insertion_sort.py">insertion_sort.py</a></td>
 <td>insertion_sort.cpp</td>
 </tr>
 </table>
 
+# 算法原理
+<p><img src="readme_sources/insertion_sort.png"></p>
