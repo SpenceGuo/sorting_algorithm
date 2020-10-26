@@ -18,4 +18,5 @@
 </table>
 
 # 算法原理
+插入排序：<br />
 <p><img src="images/insertion_sort.jpg"></p>
