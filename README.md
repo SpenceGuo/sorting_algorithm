@@ -6,12 +6,14 @@
 <tr>
 <td>Sorting Algorithm/排序算法</td>
 <td>Average Time Complexity/平均时间复杂度</td>
-<td>代码文件</td>
+<td>Python</td>
+<td>C/C++</td>
 </tr>
 <tr>
 <td>冒泡排序</td>
 <td>O(n^2)</td>
-<td>a.py  b.cpp</td>
+<td><a href="http:/www.baidu.com">a.py</a></td>
+<td>a.cpp</td>
 </tr>
 </table>
 
