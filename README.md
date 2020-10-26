@@ -1,5 +1,6 @@
-# Sorting Algorithm
+# Introduction
  排序算法总结以及代码详解（Python & C/C++）
+ <br />
  
 # Codes of Python & C/C++
 <table>
