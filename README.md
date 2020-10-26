@@ -27,3 +27,5 @@
 # 算法原理
 <h2>插入排序</h2>
 <p><img src="images/insertion_sort.jpg"></p>
+
+<h2>选择排序</h2>
