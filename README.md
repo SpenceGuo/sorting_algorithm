@@ -18,4 +18,4 @@
 </table>
 
 # 算法原理
-<p><img src="readme_sources/insertion_sort.png"></p>
+<p><img src="readme_sources/insertion_sort.jpg"></p>
