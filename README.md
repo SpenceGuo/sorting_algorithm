@@ -18,5 +18,5 @@
 </table>
 
 # 算法原理
-插入排序：<br />
+<h2>插入排序</h2>
 <p><img src="images/insertion_sort.jpg"></p>
