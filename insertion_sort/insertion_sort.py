@@ -7,7 +7,7 @@ def insertion_sort(nums):
         # a[j] 代表当前需要插入有序序列的数，a[0...i]为前i+1个已经排序号的有序序列
         key = a[j]
         i = j - 1
-        # 将a[j]与前
+        # 将a[j]与前j个有序数依次比较大小，并找到合适的位置插入
         while i >= 0 and a[i] > key:
             a[i+1] = a[i]
             i = i - 1
