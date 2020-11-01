@@ -27,8 +27,12 @@
 # 算法原理
 <h2>插入排序</h2>
 <p><img src="images/insertion_sort.jpg"></p>
+动画演示：
+<p><img src="images/insertionSort.gif"></p>
 
 <h2>选择排序</h2>
+动画演示：
+<p><img src="images/selectionSort.gif"></p>
 
 <h2>归并排序</h2>
 动画演示：
