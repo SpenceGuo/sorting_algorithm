@@ -31,3 +31,5 @@
 <h2>选择排序</h2>
 
 <h2>归并排序</h2>
+动画演示：
+<p><img src="images/mergeSort.gif"></p>
