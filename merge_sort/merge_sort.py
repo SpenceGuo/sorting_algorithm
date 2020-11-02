@@ -7,6 +7,7 @@ def mergeSort(arr):
     result = []
     if len(arr) < 2:
         return arr
+    # 记得取整数，向上取整ceil() 或向下取整floor() 都可以
     middle = math.floor(len(arr)/2)
     left, right = arr[0:middle], arr[middle:]
     # 递归方法
